@@ -2,7 +2,7 @@
   
   
 !!!  
-Tu je link do dataseta, ki je potreben za uporabo z jupyter notebookom.: https://filesender.arnes.si/?s=download&token=7033810d-4156-4b28-b3dc-2d4a600f8906  
+Tu je link do dataseta, ki je potreben za uporabo z jupyter notebookom.: https://filesender.arnes.si/?s=download&token=38250953-a6da-4158-a784-025f04d303cf
 !!!  
 ## Uvod
 Jaz sem se odločil izdelati program na podlavi računalniškega vida, ki ločuje med slikami mačk in psov. To je bila kar težka naloga.  
